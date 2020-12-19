@@ -30,21 +30,21 @@ Below are the final visualizations and recommendations I concluded based on my a
 
 1. What are the top 5 most profitable genres?
     - From the top 200 most profitable movies, Microsoft should invest in Adventure, Action, Sci-Fi, Animation, and Comedy movies
-![genres.png](attachment:genres.png)
+ ![](https://raw.githubusercontent.com/helenpham0229/Images/main/genres.png)
 
 2. When is the best time to release movies?
     - Based on the line plot above, June, July, and November are the most profitable months to release movies.
-![release.png](attachment:release.png)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/release.png)
 
 3. Who should we hire as director(s)?
     - Directors who directed 4 or more films would make positive net profit
-![filmdirected.png](attachment:filmdirected.png)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/filmdirected.png)
     - Out of those directors who led 4 or more movies, we shoud hire Joss Whedon, Christopher Nolan, and/or Jon Favreau.
-![directors.png](attachment:directors.png)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/directors.png)
 
 4. Who are our biggest competitors?
     - From the top 50 most profitable films, BV (one of divisions and subsidiaries of The Walt Disney Company) and WB (an American diversified multinational mass media and entertainment conglomerate) are our biggest competitors
-![competitors.png](attachment:competitors.png)
+![](https://raw.githubusercontent.com/helenpham0229/Images/main/competitors.png)
 
 ## Presentation
 Please refer to file presentation.pdf to see the non-technical results of this project.
